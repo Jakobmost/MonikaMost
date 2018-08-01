@@ -1,0 +1,82 @@
+.body {
+    background-color: antiquewhite;
+    border-radius: 0 0 30px 0;
+    box-shadow: 0px 1px 15px #888888;
+}
+
+
+.headText {
+    margin-top: 40px;
+    font-size: 2em;
+    text-align: center;
+    letter-spacing: 2px;
+    font-family: 'Playfair Display SC', serif;
+    padding-bottom: 10px;
+    text-shadow: 0px 0px 0px ;
+
+}
+
+.underline {
+    border: 0;
+    height: 1px;
+    background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+    background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+    background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+    background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+}
+.mainPicture{
+    margin-top: 30px;
+}
+
+.caption{
+    margin-top: 20px;
+    font-size: 1.4em;
+    text-align: center;
+    letter-spacing: 2px;
+    font-family: 'Playfair Display SC', serif;
+    padding-bottom: 10px;
+    text-shadow: 0px 0px 0px ;
+    margin-bottom: 30px;
+}
+
+.img2{
+    margin-top: 20px;
+    opacity: 0.6;
+}
+
+.swipeText{
+    text-align: center;
+    font-size: 0.8em;
+    color: rgba(0,0,0,0.5);
+    margin-bottom: 71px;
+}
+
+.frontwrap{
+    background-color: rgba(220,220,200,0.2);
+}
+
+
+.button5 {
+    margin-top: 20px;
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+    opacity: 0.5;
+}
+
+.button5:hover {
+    background-color: #555555;
+    color: white;
+}
+
+.mainSite{
+    visibility: hidden;
+}
+
+.box{
+    border: 1px solid black
+}
+
+
+/*font-family: 'Montserrat', sans-serif;
+    font-family: 'Amatic SC', cursive;*/
